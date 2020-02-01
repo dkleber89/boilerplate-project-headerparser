@@ -2,12 +2,12 @@
   "name": "fcc_request-header-parser-microservice",
   "version": "0.1.0",
   "description": "An FCC Backend Challenge",
-  "homepage": "https://github.com/dkleber89/fCC_Request-Header-Parser-Microservice",
   "keywords": [
     "node",
     "hyperdev",
     "express"
   ],
+  "homepage": "https://github.com/dkleber89/fCC_Request-Header-Parser-Microservice",
   "bugs": {
     "url": "https://github.com/dkleber89/fCC_Request-Header-Parser-Microservice/issues"
   },
